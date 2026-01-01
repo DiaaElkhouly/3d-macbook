@@ -1,9 +1,8 @@
 {
-  "name": "macbook_gsap_app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Vishuddhijain.github.io/gsap_macbook_landing-main",
+  "homepage": "https://DiaaElkhouly.github.io/3d-macbook",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
