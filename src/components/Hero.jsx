@@ -10,17 +10,11 @@ const Hero = () => {
   return (
     <section id="hero">
       <div>
-        <h1>MacBook Pro</h1>
-        <img src="./title.png" alt="MacBook Title" />
+        <h1 className="font-bold text-3xl">MacBook Pro</h1>
+        <img src="/title.png" alt="MacBook Title" />
       </div>
 
-      <video
-        ref={videoRef}
-        src="./videos/hero.mp4"
-        autoPlay
-        muted
-        playsInline
-      />
+      <video ref={videoRef} src="/videos/hero.mp4" autoPlay muted playsInline />
 
       <button>Buy</button>
 
